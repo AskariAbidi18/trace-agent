@@ -42,3 +42,32 @@ __pycache__/
 # Environments
 .venv/
 venv/
+
+@"
+# Node
+node_modules/
+dist/
+build/
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Environment variables
+.env
+.env.*
+
+# Runtime data
+data/traces/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+"@ | Set-Content .gitignore
