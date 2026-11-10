@@ -30,3 +30,15 @@ data/*.log
 # OS
 .DS_Store
 Thumbs.db
+
+# Runtime execution logs
+data/traces/*.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.venv/
+venv/
