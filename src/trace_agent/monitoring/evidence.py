@@ -40,7 +40,10 @@ class EvidenceCollector:
         stage_events = [
             event
             for event in events
-            if event.get("stage") == target_stage
+            if (
+                event.get("stage") == target_stage
+                and event.get("execution_id") == execution_id
+            )
         ]
 
         relevant_tool_calls = [
