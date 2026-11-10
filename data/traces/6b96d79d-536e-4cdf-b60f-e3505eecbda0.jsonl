@@ -1,0 +1,1 @@
+{"event_id": "476c9591-c550-4eb2-9fac-20fabdb7b05b", "execution_id": "6b96d79d-536e-4cdf-b60f-e3505eecbda0", "event_type": "tool_call", "stage": "tool_execution", "severity": "INFO", "timestamp": "2026-11-10T14:11:39.768060+00:00", "details": {"tool": "calculator", "arguments": {"expression": "5+5"}}}

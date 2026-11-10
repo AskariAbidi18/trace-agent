@@ -1,0 +1,2 @@
+{"event_id": "6bdc191f-5bc6-46c1-add4-e8eca98b1c1d", "execution_id": "localizer-test", "event_type": "tool_call", "stage": "tool_execution", "severity": "INFO", "timestamp": "2026-11-10T14:16:20.393715+00:00", "details": {"tool": "calculator"}}
+{"event_id": "e301c08c-6d9c-4010-8015-5d4b12dbe4d4", "execution_id": "localizer-test", "event_type": "tool_error", "stage": "tool_execution", "severity": "ERROR", "timestamp": "2026-11-10T14:16:20.397191+00:00", "details": {"error": "Division by zero"}}

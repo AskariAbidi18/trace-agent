@@ -1,0 +1,1 @@
+{"event_id": "c938b269-839d-4baf-bf50-52f601b6dce6", "execution_id": "test-A", "event_type": "tool_error", "stage": "tool_execution", "severity": "ERROR", "timestamp": "2026-11-10T14:16:30.752992+00:00", "details": {"error": "Timeout"}}

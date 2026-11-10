@@ -1,0 +1,2 @@
+{"event_id": "77b3c253-28bb-43a4-9d2b-3cd569df2fb0", "execution_id": "test-evidence", "event_type": "tool_call", "stage": "tool_execution", "severity": "INFO", "timestamp": "2026-11-10T14:12:56.321838+00:00", "details": {"tool": "calculator"}}
+{"event_id": "ad6c864f-2e35-48fb-8c9f-5c638ef5c522", "execution_id": "test-evidence", "event_type": "tool_error", "stage": "tool_execution", "severity": "ERROR", "timestamp": "2026-11-10T14:12:56.323454+00:00", "details": {"error": "Division by zero"}}
